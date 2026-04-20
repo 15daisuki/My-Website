@@ -19,8 +19,8 @@ title = "HOME"
    email = "202531002@cc.niit.ac.jp"
    image = "nia.JPG"
    imageQuality = 96
-   headline = "My research focuses on indoor air environment and urban pollutant dispersion, 
-   using wind tunnel experiments and CFD numerical simulations."
+   headline = """My research focuses on indoor air environment and urban pollutant dispersion, 
+   using wind tunnel experiments and CFD numerical simulations."""
    bio = "Wind tunnel and CFD simulation"
    links = [
      { email = "202531002@cc.niit.ac.jp" },

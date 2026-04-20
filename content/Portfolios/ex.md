@@ -1,22 +1,16 @@
----
-title: "Example Note"
-date: 2026-01-11
-description: "This is an example note."
-categories: ["Notes"]
-tags: ["Example"]
-draft: false
----
-## I record my portfolio on this
+# 2D模拟求解器总结
+## 第一部分 破题
+### 观点
+### 学了什么
 
-shape building 1:1:3 fluent
-{{< video
-    src="https://www.youtube.com/watch?v=sPLqsLsooJY&list=RDsPLqsLsooJY&start_radio=1"
-    poster="nia.JPG"
-    caption="**公有领域演示** — CC0 视频与封面。"
-    loop=true
-    muted=true
->}}
+## 第二部分 演进
+### 阶段一 一维基础
+### 阶段二 二维基础
+### 阶段三 解决N-S方程的核心 压力泊松方程
 
-![Alt text](totoro.JPEG "Totoro")
+## 第三部分 成果展示与对比
+### 配图
+### 技术深度
 
+## 思考
 
