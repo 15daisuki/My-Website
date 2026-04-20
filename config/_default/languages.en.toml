@@ -12,17 +12,18 @@ title = "HOME"
   # logo = "nia.JPG"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Welcome to my website"
-  copyright = "Copyright © 2026 <a href='https://15daisuki.github.io/mywebsite/' class='hover:text-primary-600'>SHUU SEMEI</a>. All rights reserved."
+  copyright = "Copyright © 2026 <a href='https://15daisuki.github.io/My-Website/' class='hover:text-primary-600'>SHUU SEMEI</a>. All rights reserved."
 
 [params.author]
    name = "SHUU SEMEI"
    email = "202531002@cc.niit.ac.jp"
    image = "nia.JPG"
    imageQuality = 96
-   headline = "Welcome to my website"
-   bio = "A student in Japan"
+   headline = "My research focuses on indoor air environment and urban pollutant dispersion, 
+   using wind tunnel experiments and CFD numerical simulations."
+   bio = "Wind tunnel and CFD simulation"
    links = [
-#     { email = "mailto:hello@your_domain.com" },
+     { email = "202531002@cc.niit.ac.jp" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
