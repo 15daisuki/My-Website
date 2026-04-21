@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on HOME</title>
-    <link>http://localhost:1313/mywebsite/categories/</link>
+    <link>http://localhost:1313/My-Website/categories/</link>
     <description>Recent content in Categories on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>202531002@cc.niit.ac.jp (SHUU SEMEI)</managingEditor>
     <webMaster>202531002@cc.niit.ac.jp (SHUU SEMEI)</webMaster>
-    <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/mywebsite/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/mywebsite/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/My-Website/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 21 Apr 2026 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/My-Website/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Notes</title>
-      <link>http://localhost:1313/mywebsite/categories/notes/</link>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <title>実験</title>
+      <link>http://localhost:1313/My-Website/categories/%E5%AE%9F%E9%A8%93/</link>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 +0800</pubDate>
       <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
-      <guid>http://localhost:1313/mywebsite/categories/notes/</guid>
+      <guid>http://localhost:1313/My-Website/categories/%E5%AE%9F%E9%A8%93/</guid>
       <description></description>
       
     </item>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on HOME</title>
-    <link>http://localhost:1313/mywebsite/authors/</link>
+    <link>http://localhost:1313/My-Website/authors/</link>
     <description>Recent content in Authors on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>202531002@cc.niit.ac.jp (SHUU SEMEI)</managingEditor>
     <webMaster>202531002@cc.niit.ac.jp (SHUU SEMEI)</webMaster>
-    <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/mywebsite/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
-    <atom:link href="http://localhost:1313/mywebsite/authors/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/My-Website/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
+    <atom:link href="http://localhost:1313/My-Website/authors/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

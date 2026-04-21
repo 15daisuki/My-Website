@@ -2,21 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HOME</title>
-    <link>http://localhost:1313/mywebsite/tags/</link>
+    <link>http://localhost:1313/My-Website/tags/</link>
     <description>Recent content in Tags on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>202531002@cc.niit.ac.jp (SHUU SEMEI)</managingEditor>
     <webMaster>202531002@cc.niit.ac.jp (SHUU SEMEI)</webMaster>
-    <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/mywebsite/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/mywebsite/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/My-Website/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 21 Apr 2026 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/My-Website/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example</title>
-      <link>http://localhost:1313/mywebsite/tags/example/</link>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <title>校正</title>
+      <link>http://localhost:1313/My-Website/tags/%E6%A0%A1%E6%AD%A3/</link>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 +0800</pubDate>
       <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
-      <guid>http://localhost:1313/mywebsite/tags/example/</guid>
+      <guid>http://localhost:1313/My-Website/tags/%E6%A0%A1%E6%AD%A3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>風洞実験</title>
+      <link>http://localhost:1313/My-Website/tags/%E9%A2%A8%E6%B4%9E%E5%AE%9F%E9%A8%93/</link>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/tags/%E9%A2%A8%E6%B4%9E%E5%AE%9F%E9%A8%93/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>風速計</title>
+      <link>http://localhost:1313/My-Website/tags/%E9%A2%A8%E9%80%9F%E8%A8%88/</link>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/tags/%E9%A2%A8%E9%80%9F%E8%A8%88/</guid>
       <description></description>
       
     </item>

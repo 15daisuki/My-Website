@@ -2,41 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOME</title>
-    <link>http://localhost:1313/mywebsite/</link>
+    <link>http://localhost:1313/My-Website/</link>
     <description>Recent content on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>202531002@cc.niit.ac.jp (SHUU SEMEI)</managingEditor>
     <webMaster>202531002@cc.niit.ac.jp (SHUU SEMEI)</webMaster>
-    <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/mywebsite/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/mywebsite/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/My-Website/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 21 Apr 2026 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/My-Website/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example 2</title>
-      <link>http://localhost:1313/mywebsite/notes/ex2/</link>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <title>風速実験の日常</title>
+      <link>http://localhost:1313/My-Website/notes/4-17-4-21-wind-tunnel/</link>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 +0800</pubDate>
       <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
-      <guid>http://localhost:1313/mywebsite/notes/ex2/</guid>
-      <description></description>
+      <guid>http://localhost:1313/My-Website/notes/4-17-4-21-wind-tunnel/</guid>
+      <description>風洞実験の日常記録、風速計の校正作業について</description>
       
     </item>
     
     <item>
-      <title>Example Note</title>
-      <link>http://localhost:1313/mywebsite/notes/ex/</link>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>http://localhost:1313/My-Website/portfolios/ex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
-      <guid>http://localhost:1313/mywebsite/notes/ex/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Example Note</title>
-      <link>http://localhost:1313/mywebsite/portfolios/ex/</link>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
-      <guid>http://localhost:1313/mywebsite/portfolios/ex/</guid>
+      <guid>http://localhost:1313/My-Website/portfolios/ex/</guid>
       <description></description>
       
     </item>

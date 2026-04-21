@@ -23,7 +23,7 @@ title = "HOME"
    using wind tunnel experiments and CFD numerical simulations."""
    bio = "Wind tunnel and CFD simulation"
    links = [
-     { email = "202531002@cc.niit.ac.jp" },
+#     { email = "202531002@cc.niit.ac.jp" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

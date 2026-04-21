@@ -3,38 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/mywebsite/notes/ex2/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/My-Website/</loc>
+    <lastmod>2026-04-21T15:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mywebsite/notes/ex/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/My-Website/notes/</loc>
+    <lastmod>2026-04-21T15:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mywebsite/portfolios/ex/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/My-Website/notes/4-17-4-21-wind-tunnel/</loc>
+    <lastmod>2026-04-21T15:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mywebsite/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/My-Website/notes/4-22-wind/</loc>
+    <lastmod>2026-04-21T15:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mywebsite/notes/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/My-Website/portfolios/ex/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/mywebsite/portfolios/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/My-Website/portfolios/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

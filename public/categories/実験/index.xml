@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>実験 on HOME</title>
+    <link>http://localhost:1313/My-Website/categories/%E5%AE%9F%E9%A8%93/</link>
+    <description>Recent content in 実験 on HOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>202531002@cc.niit.ac.jp (SHUU SEMEI)</managingEditor>
+    <webMaster>202531002@cc.niit.ac.jp (SHUU SEMEI)</webMaster>
+    <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/My-Website/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 21 Apr 2026 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/My-Website/categories/%E5%AE%9F%E9%A8%93/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>風速実験の日常</title>
+      <link>http://localhost:1313/My-Website/notes/4-17-4-21-wind-tunnel/</link>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/notes/4-17-4-21-wind-tunnel/</guid>
+      <description>風洞実験の日常記録、風速計の校正作業について</description>
+      
+    </item>
+    
+    <item>
+      <title>風速実験の日常</title>
+      <link>http://localhost:1313/My-Website/notes/4-22-wind/</link>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/notes/4-22-wind/</guid>
+      <description>風洞実験の日常記録</description>
+      
+    </item>
+    
+  </channel>
+</rss>

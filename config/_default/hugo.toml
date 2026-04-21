@@ -8,6 +8,9 @@ defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
+hasCJKLanguage = true # 计字数
+languageCode = "ja"
+
 enableRobotsTXT = true
 summaryLength = 0
 

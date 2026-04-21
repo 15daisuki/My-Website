@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blowfish主题使用系列 on HOME</title>
+    <link>http://localhost:1313/My-Website/series/blowfish%E4%B8%BB%E9%A2%98%E4%BD%BF%E7%94%A8%E7%B3%BB%E5%88%97/</link>
+    <description>Recent content in Blowfish主题使用系列 on HOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>202531002@cc.niit.ac.jp (SHUU SEMEI)</managingEditor>
+    <webMaster>202531002@cc.niit.ac.jp (SHUU SEMEI)</webMaster>
+    <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/My-Website/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 21 Apr 2024 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/My-Website/series/blowfish%E4%B8%BB%E9%A2%98%E4%BD%BF%E7%94%A8%E7%B3%BB%E5%88%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>我的第一篇Blowfish教程</title>
+      <link>http://localhost:1313/My-Website/notes/guide/</link>
+      <pubDate>Sat, 20 Apr 2024 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/notes/guide/</guid>
+      <description>这是文章的摘要，会显示在文章列表页和SEO元数据中</description>
+      
+    </item>
+    
+  </channel>
+</rss>
