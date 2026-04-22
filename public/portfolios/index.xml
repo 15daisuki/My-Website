@@ -9,14 +9,24 @@
     <managingEditor>202531002@cc.niit.ac.jp (SHUU SEMEI)</managingEditor>
     <webMaster>202531002@cc.niit.ac.jp (SHUU SEMEI)</webMaster>
     <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/My-Website/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
-    <atom:link href="http://localhost:1313/My-Website/portfolios/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/My-Website/portfolios/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>12段階的N-S方程式に行き</title>
+      <link>http://localhost:1313/My-Website/portfolios/steps-to-n-s/</link>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/portfolios/steps-to-n-s/</guid>
+      <description>方程式の勉強とコード練習</description>
+      
+    </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/My-Website/portfolios/ex/</link>
+      <link>http://localhost:1313/My-Website/portfolios/cfd-basics-summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
-      <guid>http://localhost:1313/My-Website/portfolios/ex/</guid>
+      <guid>http://localhost:1313/My-Website/portfolios/cfd-basics-summary/</guid>
       <description></description>
       
     </item>

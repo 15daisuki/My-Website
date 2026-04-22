@@ -7,7 +7,7 @@ summary: "風洞実験の日常記録、風速計の校正作業について"
 tags: ["風洞実験", "風速計", "校正"]
 categories: ["実験"]
 
-featureimage: "huji.JPEG"        
+featureimage: "sensor_test.jpg"        
 featureimagecaption: "風洞実験の日常"
 showHero: true                      
 heroStyle: "basic"                     
@@ -26,6 +26,7 @@ sharingLinks: ["twitter", "facebook"]
 {{< katex >}}
 
 # 風洞実験の流れ
+実験時間：2026.4.17 ~ 2026.4.21
 
 ## 第一日　実験の下準備
 ### 朝　
@@ -90,5 +91,7 @@ $$
 
 先ず、ピトー管を用いて今日の基準風速を測定した。その後、実験用ソフトに第一日に作成した校正曲線を読み込み、測量を開始した。
 
+> [!TIP]
+> 実験設置はシリーズ2をご覧ください。
 
 [^ピトー管]: 全圧と静圧の差から動圧を求め、ベルヌーイの定理に基づいて流速を算出する測定装置である。
