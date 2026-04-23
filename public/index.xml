@@ -32,11 +32,21 @@
     </item>
     
     <item>
-      <title>12段階的N-S方程式に行き</title>
-      <link>http://localhost:1313/My-Website/portfolios/steps-to-n-s/</link>
-      <pubDate>Wed, 01 Apr 2026 12:00:00 +0800</pubDate>
+      <title>1-D Linear Convection Equation`</title>
+      <link>http://localhost:1313/My-Website/portfolios/1-steps-to-n-s/</link>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0800</pubDate>
       <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
-      <guid>http://localhost:1313/My-Website/portfolios/steps-to-n-s/</guid>
+      <guid>http://localhost:1313/My-Website/portfolios/1-steps-to-n-s/</guid>
+      <description>方程式の勉強とコード練習</description>
+      
+    </item>
+    
+    <item>
+      <title>Steps 1~4 1D`</title>
+      <link>http://localhost:1313/My-Website/portfolios/2-steps-to-n-s/</link>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/portfolios/2-steps-to-n-s/</guid>
       <description>方程式の勉強とコード練習</description>
       
     </item>

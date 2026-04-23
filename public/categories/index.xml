@@ -21,5 +21,25 @@
       
     </item>
     
+    <item>
+      <title>CFD</title>
+      <link>http://localhost:1313/My-Website/categories/cfd/</link>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/categories/cfd/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>http://localhost:1313/My-Website/categories/code/</link>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/categories/code/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
