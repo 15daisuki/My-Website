@@ -19,8 +19,8 @@ title = "HOME"
    email = "202531002@cc.niit.ac.jp"
    image = "nia.JPG"
    imageQuality = 96
-   headline = """My research focuses on indoor air environment and urban pollutant dispersion, 
-   using wind tunnel experiments and CFD numerical simulations."""
+   headline = """私の研究は、室内空気環境および都市域の汚染物質拡散を対象に、
+   風洞実験と CFD 数値シミュレーションを用いて研究を行っています."""
    bio = "Wind tunnel and CFD simulation"
    links = [
 #     { email = "202531002@cc.niit.ac.jp" },
@@ -69,7 +69,7 @@ title = "HOME"
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
-#     { x-twitter = "https://twitter.com/username" },
+     { x-twitter = "https://x.com/home" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },

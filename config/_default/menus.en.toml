@@ -11,24 +11,34 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Portfolio"
-  pageRef = "portfolios"
+  name = "CFD"
+  pageRef = "CFD"
   weight = 10
 
 [[main]]
-  name = "Note"
-  pageRef = "notes"
+  name = "Wind-Tunnel"
+  pageRef = "Wind-Tunnel"
   weight = 20
+
+  [[main]]
+  name = "Note"
+  pageRef = "Note"
+  weight = 30
+
+[[main]]
+  name = "About"
+  pageRef = "About"
+  weight = 40
 
 [[main]]
   name = "Uni"
   url = "https://www.niit.ac.jp/outline/"
-  weight = 30
+  weight = 50
 
 [[main]]
   name = "Lab"
   url = "https://www.ytomi.net/tomilab/"
-  weight = 40
+  weight = 60
 
 
 
