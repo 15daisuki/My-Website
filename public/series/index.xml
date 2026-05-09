@@ -9,7 +9,27 @@
     <managingEditor>202531002@cc.niit.ac.jp (SHUU SEMEI)</managingEditor>
     <webMaster>202531002@cc.niit.ac.jp (SHUU SEMEI)</webMaster>
     <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/My-Website/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 27 Apr 2026 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/My-Website/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 May 2026 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/My-Website/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>屋根形状の異なる通風実験シリーズ</title>
+      <link>http://localhost:1313/My-Website/series/%E5%B1%8B%E6%A0%B9%E5%BD%A2%E7%8A%B6%E3%81%AE%E7%95%B0%E3%81%AA%E3%82%8B%E9%80%9A%E9%A2%A8%E5%AE%9F%E9%A8%93%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</link>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/series/%E5%B1%8B%E6%A0%B9%E5%BD%A2%E7%8A%B6%E3%81%AE%E7%95%B0%E3%81%AA%E3%82%8B%E9%80%9A%E9%A2%A8%E5%AE%9F%E9%A8%93%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>実験結果とシミュレーションの検証</title>
+      <link>http://localhost:1313/My-Website/series/%E5%AE%9F%E9%A8%93%E7%B5%90%E6%9E%9C%E3%81%A8%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%A4%9C%E8%A8%BC/</link>
+      <pubDate>Thu, 30 Apr 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/series/%E5%AE%9F%E9%A8%93%E7%B5%90%E6%9E%9C%E3%81%A8%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%A4%9C%E8%A8%BC/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>私の日本生活記録</title>
@@ -17,16 +37,6 @@
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0800</pubDate>
       <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
       <guid>http://localhost:1313/My-Website/series/%E7%A7%81%E3%81%AE%E6%97%A5%E6%9C%AC%E7%94%9F%E6%B4%BB%E8%A8%98%E9%8C%B2/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>風速実験シリーズ</title>
-      <link>http://localhost:1313/My-Website/series/%E9%A2%A8%E9%80%9F%E5%AE%9F%E9%A8%93%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</link>
-      <pubDate>Wed, 22 Apr 2026 12:00:00 +0800</pubDate>
-      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
-      <guid>http://localhost:1313/My-Website/series/%E9%A2%A8%E9%80%9F%E5%AE%9F%E9%A8%93%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/</guid>
       <description></description>
       
     </item>

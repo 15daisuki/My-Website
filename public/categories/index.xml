@@ -9,22 +9,12 @@
     <managingEditor>202531002@cc.niit.ac.jp (SHUU SEMEI)</managingEditor>
     <webMaster>202531002@cc.niit.ac.jp (SHUU SEMEI)</webMaster>
     <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/My-Website/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 27 Apr 2026 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/My-Website/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>生活</title>
-      <link>http://localhost:1313/My-Website/categories/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Mon, 27 Apr 2026 12:00:00 +0800</pubDate>
-      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
-      <guid>http://localhost:1313/My-Website/categories/%E7%94%9F%E6%B4%BB/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Fri, 08 May 2026 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/My-Website/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>実験</title>
       <link>http://localhost:1313/My-Website/categories/%E5%AE%9F%E9%A8%93/</link>
-      <pubDate>Wed, 22 Apr 2026 12:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 May 2026 12:00:00 +0800</pubDate>
       <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
       <guid>http://localhost:1313/My-Website/categories/%E5%AE%9F%E9%A8%93/</guid>
       <description></description>
@@ -34,9 +24,29 @@
     <item>
       <title>CFD</title>
       <link>http://localhost:1313/My-Website/categories/cfd/</link>
-      <pubDate>Sun, 01 Mar 2026 12:00:00 +0800</pubDate>
+      <pubDate>Thu, 30 Apr 2026 12:00:00 +0800</pubDate>
       <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
       <guid>http://localhost:1313/My-Website/categories/cfd/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fluent</title>
+      <link>http://localhost:1313/My-Website/categories/fluent/</link>
+      <pubDate>Thu, 30 Apr 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/categories/fluent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>生活</title>
+      <link>http://localhost:1313/My-Website/categories/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Mon, 27 Apr 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/categories/%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
       
     </item>

@@ -9,7 +9,17 @@
     <managingEditor>202531002@cc.niit.ac.jp (SHUU SEMEI)</managingEditor>
     <webMaster>202531002@cc.niit.ac.jp (SHUU SEMEI)</webMaster>
     <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/My-Website/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
-    <atom:link href="http://localhost:1313/My-Website/categories/fluent/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Apr 2026 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/My-Website/categories/fluent/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>二つ建物の中に汚染物質を排出の実験結果とシミュレーション</title>
+      <link>http://localhost:1313/My-Website/cfd/cfd-basics-summary/</link>
+      <pubDate>Thu, 30 Apr 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/cfd/cfd-basics-summary/</guid>
+      <description>検証シミュレーション</description>
+      
+    </item>
     
   </channel>
 </rss>

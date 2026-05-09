@@ -1,5 +1,5 @@
 ---
-title: "屋根形状の異なる通風実験-Part1"
+title: "屋根形状の異なる通風実験-Part2"
 date: 2026-04-22T12:00:00+08:00
 lastmod: 2026-04-22T15:00:00+08:00
 draft: false  
@@ -17,7 +17,7 @@ showWordCount: true
 showComments: true             
 showBreadcrumbs: true               
 # 补充了系列名称，否则series_order参数不会生效
-series: ["風速実験シリーズ"]
+series: ["屋根形状の異なる通風実験シリーズ"]
 series_order: 2                    
 externalLinkForceNewTab: true         
 sharingLinks: ["twitter", "facebook"] 
@@ -25,8 +25,9 @@ sharingLinks: ["twitter", "facebook"]
 
 {{< katex >}}
 
-# 11タイプの屋根に対する通風実験-Part1
+# 11タイプの屋根に対する通風実験-Part2
 風速計先端とフロアの距離は60mm
+
 実験時間：2026.4.21 ~ 2026.4.22
 
 ## 基本設定
@@ -49,7 +50,7 @@ sharingLinks: ["twitter", "facebook"]
 ※0°は模型の開口部に正対する迎風方向とする。
 ## 配置条件
 
-平面密度 $\lambda_p$：40%, 25%, 15%。
+平面密度\(\lambda_p = 40\%\)：40%, 25%, 15%。
 
 模型間隔：
 
@@ -83,4 +84,4 @@ $$11 \times 3 \times 6 = 198$$
 
 ## 実験結果
 
-
+つづく
