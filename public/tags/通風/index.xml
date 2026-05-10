@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>通風 on HOME</title>
-    <link>http://localhost:1313/My-Website/tags/%E9%80%9A%E9%A2%A8/</link>
+    <link>http://localhost:60237/My-Website/tags/%E9%80%9A%E9%A2%A8/</link>
     <description>Recent content in 通風 on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>202531002@cc.niit.ac.jp (SHUU SEMEI)</managingEditor>
     <webMaster>202531002@cc.niit.ac.jp (SHUU SEMEI)</webMaster>
     <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/My-Website/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 08 May 2026 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/My-Website/tags/%E9%80%9A%E9%A2%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 May 2026 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:60237/My-Website/tags/%E9%80%9A%E9%A2%A8/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>屋根形状の異なる通風実験-Part3</title>
-      <link>http://localhost:1313/My-Website/wind-tunnel/5-1-5-8-4mm/</link>
-      <pubDate>Fri, 01 May 2026 12:00:00 +0800</pubDate>
+      <link>http://localhost:60237/My-Website/wind-tunnel/5-1-5-8-4mm/</link>
+      <pubDate>Fri, 08 May 2026 12:00:00 +0800</pubDate>
       <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
-      <guid>http://localhost:1313/My-Website/wind-tunnel/5-1-5-8-4mm/</guid>
+      <guid>http://localhost:60237/My-Website/wind-tunnel/5-1-5-8-4mm/</guid>
       <description>風洞実験の日常記録</description>
       
     </item>
     
     <item>
       <title>屋根形状の異なる通風実験-Part2</title>
-      <link>http://localhost:1313/My-Website/wind-tunnel/4-22-wind/</link>
+      <link>http://localhost:60237/My-Website/wind-tunnel/4-22-wind/</link>
       <pubDate>Wed, 22 Apr 2026 12:00:00 +0800</pubDate>
       <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
-      <guid>http://localhost:1313/My-Website/wind-tunnel/4-22-wind/</guid>
+      <guid>http://localhost:60237/My-Website/wind-tunnel/4-22-wind/</guid>
       <description>風洞実験の日常記録</description>
       
     </item>

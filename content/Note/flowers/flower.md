@@ -7,7 +7,7 @@ summary: "お花見の花写真の記録"
 tags: ["花", "写真", "桜"]
 categories: ["生活"]
 
-featureimage: "1.jpg"        
+featureimage: "thu_flower.jpg"        
 featureimagecaption: "春のお花見"
 showHero: true                      
 heroStyle: "basic"                     
@@ -26,6 +26,7 @@ sharingLinks: ["twitter", "facebook"]
 # 春のお花見 ～街に咲く色彩と心の風景～
 春の訪れを感じながら、街のあちこちで咲き誇る花々を撮影しました。
 ただの景色ではなく、季節の移ろいや日常の中にある小さな幸せを、写真と共に記録しています。
+
 撮影期間：2026.4.06 ~ 2026.4.28
 
 ## 桜
