@@ -9,7 +9,17 @@
     <managingEditor>202531002@cc.niit.ac.jp (SHUU SEMEI)</managingEditor>
     <webMaster>202531002@cc.niit.ac.jp (SHUU SEMEI)</webMaster>
     <copyright>Copyright © 2026 &lt;a href=&#39;https://15daisuki.github.io/My-Website/&#39; class=&#39;hover:text-primary-600&#39;&gt;SHUU SEMEI&lt;/a&gt;. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 08 May 2026 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/My-Website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 May 2026 15:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/My-Website/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>屋根形状の異なる通風実験-Part4</title>
+      <link>http://localhost:1313/My-Website/wind-tunnel/5.13-5.26/</link>
+      <pubDate>Tue, 26 May 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/wind-tunnel/5.13-5.26/</guid>
+      <description>風洞実験の日常記録</description>
+      
+    </item>
     
     <item>
       <title>屋根形状の異なる通風実験-Part3</title>
@@ -78,16 +88,6 @@
       <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
       <guid>http://localhost:1313/My-Website/cfd/1-steps-to-n-s/</guid>
       <description>方程式の勉強とコード練習</description>
-      
-    </item>
-    
-    <item>
-      <title>屋根形状の異なる通風実験-Part4</title>
-      <link>http://localhost:1313/My-Website/wind-tunnel/5.13-5.26/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
-      <guid>http://localhost:1313/My-Website/wind-tunnel/5.13-5.26/</guid>
-      <description>風洞実験の日常記録</description>
       
     </item>
     
