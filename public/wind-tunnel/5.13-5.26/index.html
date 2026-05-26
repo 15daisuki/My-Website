@@ -15,20 +15,20 @@
 
   
   
-    <title>一次元線形移流方程式 &middot; HOME</title>
-    <meta name="title" content="一次元線形移流方程式 &middot; HOME">
+    <title>屋根形状の異なる通風実験-Part4 &middot; HOME</title>
+    <meta name="title" content="屋根形状の異なる通風実験-Part4 &middot; HOME">
   
 
   
   
-    <meta name="description" content="方程式の勉強とコード練習">
+    <meta name="description" content="風洞実験の日常記録">
   
   
-    <meta name="keywords" content="有限差分法,code,N-S,CFD,">
+    <meta name="keywords" content="風洞実験,通風,">
   
   
   
-  <link rel="canonical" href="http://localhost:1313/My-Website/cfd/1-steps-to-n-s/">
+  <link rel="canonical" href="http://localhost:1313/My-Website/wind-tunnel/5.13-5.26/">
   
 
   
@@ -64,24 +64,23 @@
   
 
   
-  <meta property="og:url" content="http://localhost:1313/My-Website/cfd/1-steps-to-n-s/">
+  <meta property="og:url" content="http://localhost:1313/My-Website/wind-tunnel/5.13-5.26/">
   <meta property="og:site_name" content="HOME">
-  <meta property="og:title" content="一次元線形移流方程式">
-  <meta property="og:description" content="方程式の勉強とコード練習">
+  <meta property="og:title" content="屋根形状の異なる通風実験-Part4">
+  <meta property="og:description" content="風洞実験の日常記録">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
-    <meta property="article:section" content="cfd">
-    <meta property="article:published_time" content="2026-03-01T12:00:00+08:00">
-    <meta property="article:modified_time" content="2026-03-02T15:00:00+08:00">
-    <meta property="article:tag" content="有限差分法">
-    <meta property="article:tag" content="Code">
-    <meta property="article:tag" content="N-S">
-    <meta property="article:tag" content="CFD">
+    <meta property="article:section" content="wind-tunnel">
+    <meta property="article:tag" content="風洞実験">
+    <meta property="article:tag" content="通風">
+      <meta property="og:see_also" content="http://localhost:1313/My-Website/wind-tunnel/5.1-5.8/">
+      <meta property="og:see_also" content="http://localhost:1313/My-Website/wind-tunnel/4-22-wind/">
+      <meta property="og:see_also" content="http://localhost:1313/My-Website/wind-tunnel/4-17-4-21-wind-tunnel/">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="一次元線形移流方程式">
-  <meta name="twitter:description" content="方程式の勉強とコード練習">
+  <meta name="twitter:title" content="屋根形状の異なる通風実験-Part4">
+  <meta name="twitter:description" content="風洞実験の日常記録">
 
   
   
@@ -331,6 +330,21 @@
 
 
 
+  
+  
+  <link
+    type="text/css"
+    rel="stylesheet"
+    href="/My-Website/css/components/carousel.60dfc156f6adcb4e4ed0f489b28f5b34e2424756a0ffb5294d291f6bf0a9ef712c4f65db4b6f8659d219f9c53f402093639e6514eb30977898f7238c25b99686.css"
+    integrity="sha512-YN/BVvaty05O0PSJso9bNOJCR1ag/7UpTSkfa/Cp73EsT2XbS2&#43;GWdIZ&#43;cU/QCCTY55lFOswl3iY9yOMJbmWhg==">
+  
+  
+  <script
+    defer
+    type="text/javascript"
+    src="/My-Website/lib/tw-elements/index.min.6b06ebf307d7569a9491faed79e5fc607129a8b37e9e25b0c3def74abaed8762a7ee292009ca3f87fac138d101c397a01b72cf91d6ee78be4a3eba827ff37292.js"
+    integrity="sha512-awbr8wfXVpqUkfrteeX8YHEpqLN&#43;niWww973Srrth2Kn7ikgCco/h/rBONEBw5egG3LPkdbueL5KPrqCf/Nykg=="></script>
+
 
 
 
@@ -369,26 +383,26 @@
   [{
     "@context": "https://schema.org",
     "@type": "Article",
-    "articleSection": "CFD",
-    "name": "一次元線形移流方程式",
-    "headline": "一次元線形移流方程式",
+    "articleSection": "Wind Tunnel",
+    "name": "屋根形状の異なる通風実験-Part4",
+    "headline": "屋根形状の異なる通風実験-Part4",
     
     "inLanguage": "en",
-    "url" : "http://localhost:1313/My-Website/cfd/1-steps-to-n-s/",
+    "url" : "http://localhost:1313/My-Website/wind-tunnel/5.13-5.26/",
     "author" : {
       "@type": "Person",
       "name": "SHUU SEMEI"
     },
-    "copyrightYear": "2026",
-    "dateCreated": "2026-03-01T12:00:00\u002b08:00",
-    "datePublished": "2026-03-01T12:00:00\u002b08:00",
     
-    "dateModified": "2026-03-02T15:00:00\u002b08:00",
     
-    "keywords": ["有限差分法","code","N-S","CFD"],
+    
+    
+    
+    
+    "keywords": ["風洞実験","通風"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "1218"
+    "wordCount": "603"
   }]
   </script>
 
@@ -805,30 +819,40 @@
 
 
 
-
-
-  
-  
-    
-  
-    
-  
-    
   
     
   
 
 
 
+
+
+
+
+
+  
+    
+    
+      
+      
+    
+  
+
+
+
   
   
-
-
-
-
   
-
-
+  <div class="overflow-hidden h-36 md:h-56 lg:h-72">
+    <img
+      src="/My-Website/ISO_hu_b4805514044ab517.jpg"
+      role="presentation"
+      loading="eager"
+      decoding="async"
+      fetchpriority="high"
+      class="w-full h-full nozoom object-cover"
+      >
+  </div>
 
 
       
@@ -852,15 +876,15 @@
 
   
   <li class="inline">
-    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/My-Website/cfd/"
-      >CFD</a
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/My-Website/wind-tunnel/"
+      >Wind Tunnel</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
   
   <li class="hidden">
-    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/My-Website/cfd/1-steps-to-n-s/"
-      >一次元線形移流方程式</a
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/My-Website/wind-tunnel/5.13-5.26/"
+      >屋根形状の異なる通風実験-Part4</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -869,7 +893,7 @@
 
       
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        一次元線形移流方程式
+        屋根形状の異なる通風実験-Part4
       </h1>
       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         
@@ -921,7 +945,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-03-01T12:00:00&#43;08:00">1 March 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1218 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+      <time datetime="0001-01-01T00:00:00&#43;00:00">1 January 0001</time><span class="px-2 text-primary-500">&middot;</span><span>603 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span>
     
 
     
@@ -964,18 +988,13 @@
     class="min-w-[220px] py-2 border-dotted border-s-1 -ms-5 ps-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#支配方程式">支配方程式</a></li>
-    <li><a href="#1-方程式の物理的意味汚染物質の拡散を例に">1. 方程式の物理的意味：汚染物質の拡散を例に</a></li>
-    <li><a href="#2-有限差分による離散化風上差分と中心差分の比較">2. 有限差分による離散化：風上差分と中心差分の比較</a>
+    <li><a href="#紹介">紹介</a></li>
+    <li><a href="#sa30とsd30の再測定結果">SA30とSD30の再測定結果</a>
       <ul>
-        <li><a href="#風上差分upwind-scheme">風上差分（Upwind Scheme）</a></li>
-        <li><a href="#中心差分central-difference-scheme">中心差分（Central Difference Scheme）</a></li>
-        <li><a href="#時間を進めるための離散式">時間を進めるための離散式</a></li>
+        <li><a href="#単独建物ケースの設定">単独建物ケースの設定</a></li>
+        <li><a href="#結果">結果</a></li>
       </ul>
     </li>
-    <li><a href="#3-コード実装">3. コード実装</a></li>
-    <li><a href="#4-cfl安定性条件">4. CFL安定性条件</a></li>
-    <li><a href="#5-主要な結果の考察">5. 主要な結果の考察</a></li>
   </ul>
 </nav>
   </div>
@@ -989,18 +1008,13 @@
     class="py-2 border-dotted border-neutral-300 border-s-1 -ms-5 ps-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#支配方程式">支配方程式</a></li>
-    <li><a href="#1-方程式の物理的意味汚染物質の拡散を例に">1. 方程式の物理的意味：汚染物質の拡散を例に</a></li>
-    <li><a href="#2-有限差分による離散化風上差分と中心差分の比較">2. 有限差分による離散化：風上差分と中心差分の比較</a>
+    <li><a href="#紹介">紹介</a></li>
+    <li><a href="#sa30とsd30の再測定結果">SA30とSD30の再測定結果</a>
       <ul>
-        <li><a href="#風上差分upwind-scheme">風上差分（Upwind Scheme）</a></li>
-        <li><a href="#中心差分central-difference-scheme">中心差分（Central Difference Scheme）</a></li>
-        <li><a href="#時間を進めるための離散式">時間を進めるための離散式</a></li>
+        <li><a href="#単独建物ケースの設定">単独建物ケースの設定</a></li>
+        <li><a href="#結果">結果</a></li>
       </ul>
     </li>
-    <li><a href="#3-コード実装">3. コード実装</a></li>
-    <li><a href="#4-cfl安定性条件">4. CFL安定性条件</a></li>
-    <li><a href="#5-主要な結果の考察">5. 主要な結果の考察</a></li>
   </ul>
 </nav>
   </div>
@@ -1022,7 +1036,7 @@
     
   <summary
     class="py-1 text-lg font-semibold cursor-pointer bg-primary-200 text-neutral-800 -ms-5 ps-5 dark:bg-primary-800 dark:text-neutral-100">
-    12 steps to Navier-Stokes -
+    屋根形状の異なる通風実験シリーズ -
     This article is part of a series.
   </summary>
   
@@ -1030,7 +1044,37 @@
     
       <div
         class="py-1 border-dotted border-neutral-300 border-s-1 -ms-5 ps-5 dark:border-neutral-600">
-        Part 1:
+        <a href="/My-Website/wind-tunnel/4-17-4-21-wind-tunnel/">
+          Part 1:
+          屋根形状の異なる通風実験-Part1
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 border-s-1 -ms-5 ps-5 dark:border-neutral-600">
+        <a href="/My-Website/wind-tunnel/4-22-wind/">
+          Part 2:
+          屋根形状の異なる通風実験-Part2
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 border-s-1 -ms-5 ps-5 dark:border-neutral-600">
+        <a href="/My-Website/wind-tunnel/5.1-5.8/">
+          Part 3:
+          屋根形状の異なる通風実験-Part3
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 border-s-1 -ms-5 ps-5 dark:border-neutral-600">
+        Part 4:
         This Article
       </div>
     
@@ -1044,143 +1088,159 @@
           
 
 
-<h1 class="relative group">Step 1 一次元線形移流方程式（1-D Linear Convection Equation）
-    <div id="step-1-一次元線形移流方程式1-d-linear-convection-equation" class="anchor"></div>
+<h1 class="relative group">11タイプの屋根に対する通風実験-Part4
+    <div id="11タイプの屋根に対する通風実験-part4" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#step-1-%e4%b8%80%e6%ac%a1%e5%85%83%e7%b7%9a%e5%bd%a2%e7%a7%bb%e6%b5%81%e6%96%b9%e7%a8%8b%e5%bc%8f1-d-linear-convection-equation" aria-label="Anchor">#</a>
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#11%e3%82%bf%e3%82%a4%e3%83%97%e3%81%ae%e5%b1%8b%e6%a0%b9%e3%81%ab%e5%af%be%e3%81%99%e3%82%8b%e9%80%9a%e9%a2%a8%e5%ae%9f%e9%a8%93-part4" aria-label="Anchor">#</a>
     </span>
     
 </h1>
+<p>実験期間：2026.5.13 ~ 2026.5.26</p>
 
-<h2 class="relative group">支配方程式
-    <div id="支配方程式" class="anchor"></div>
+<h2 class="relative group">紹介
+    <div id="紹介" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e6%94%af%e9%85%8d%e6%96%b9%e7%a8%8b%e5%bc%8f" aria-label="Anchor">#</a>
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%b4%b9%e4%bb%8b" aria-label="Anchor">#</a>
     </span>
     
 </h2>
-<p>一次元線形移流方程式はCFDの出発点であり、その数学的な形式は以下の通りです。</p>
-$$\frac{\partial u}{\partial t} + c \frac{\partial u}{\partial x} = 0$$<p>CFDの核心にある二つの基本概念：<strong>数値離散の物理的意味</strong>と<strong>数値安定性の本質</strong>。</p>
+<p>センサー風速計（高さ60 mm）を用いたPart2の実験結果を整理した。その結果、SA30およびSD30の測定結果に誤りが確認されたため、再測定を行った。</p>
+<p>また、周囲に建物が存在しない場合の通風特性を確認するため、単独建物ケースの測定を実施した。さらに、屋根なし・建ぺい率25%のケースについても再測定を行い、前回の結果との比較を行った。</p>
 
-<h2 class="relative group">1. 方程式の物理的意味：汚染物質の拡散を例に
-    <div id="1-方程式の物理的意味汚染物質の拡散を例に" class="anchor"></div>
+<h2 class="relative group">SA30とSD30の再測定結果
+    <div id="sa30とsd30の再測定結果" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#1-%e6%96%b9%e7%a8%8b%e5%bc%8f%e3%81%ae%e7%89%a9%e7%90%86%e7%9a%84%e6%84%8f%e5%91%b3%e6%b1%9a%e6%9f%93%e7%89%a9%e8%b3%aa%e3%81%ae%e6%8b%a1%e6%95%a3%e3%82%92%e4%be%8b%e3%81%ab" aria-label="Anchor">#</a>
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#sa30%e3%81%a8sd30%e3%81%ae%e5%86%8d%e6%b8%ac%e5%ae%9a%e7%b5%90%e6%9e%9c" aria-label="Anchor">#</a>
     </span>
     
 </h2>
-<p>自分の研究対象である都市街区の汚染物質拡散と結びつけてこの方程式を理解します。</p>
-<ul>
-<li>\(u(x,t)\)：ある街路上における汚染物質濃度の、位置 \(x\) と時刻 \(t\) に対する分布</li>
-<li>\(c\)：一定の風速。汚染物質が風によって運ばれる速さを表し、方向は \(x\) 正方向</li>
-<li><strong>方程式全体の物理的意味</strong>：汚染物質は一定の風速で風向き（正方向）に沿って全体として移動し、波形の形状は変化しない</li>
-</ul>
-<p>これは理想的な「波形の平行移動」を表しています。初期状態で街路の中央に「濃度ピーク」があった場合、時間が経つにつれてそのピークは風向きに沿って等速で移動し、広がったり低くなったり歪んだりすることはありません。これは拡散・損失のない理想的な移流則に完全に従った挙動です。</p>
+<p>前回の結果と比較すると、SA30ケースでは平均風速が全体的に低下する傾向が見られた。</p>
+<p>また、SD30ケースでは測定結果に誤りがあることが判明したため、修正した。</p>
 
-<h2 class="relative group">2. 有限差分による離散化：風上差分と中心差分の比較
-    <div id="2-有限差分による離散化風上差分と中心差分の比較" class="anchor"></div>
+<h3 class="relative group">単独建物ケースの設定
+    <div id="単独建物ケースの設定" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#2-%e6%9c%89%e9%99%90%e5%b7%ae%e5%88%86%e3%81%ab%e3%82%88%e3%82%8b%e9%9b%a2%e6%95%a3%e5%8c%96%e9%a2%a8%e4%b8%8a%e5%b7%ae%e5%88%86%e3%81%a8%e4%b8%ad%e5%bf%83%e5%b7%ae%e5%88%86%e3%81%ae%e6%af%94%e8%bc%83" aria-label="Anchor">#</a>
-    </span>
-    
-</h2>
-
-<h3 class="relative group">風上差分（Upwind Scheme）
-    <div id="風上差分upwind-scheme" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e9%a2%a8%e4%b8%8a%e5%b7%ae%e5%88%86upwind-scheme" aria-label="Anchor">#</a>
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%8d%98%e7%8b%ac%e5%bb%ba%e7%89%a9%e3%82%b1%e3%83%bc%e3%82%b9%e3%81%ae%e8%a8%ad%e5%ae%9a" aria-label="Anchor">#</a>
     </span>
     
 </h3>
-$$\frac{\partial u}{\partial x} \approx \frac{u_i^n - u_{i-1}^n}{\Delta x}$$<p>前方差分を用いた風上格差分です。風上側（上流）の格子点を使って次の格子点を解くため、下流の汚染物質情報が上流に影響を与えません。物理的な因果関係と整合しています。</p>
+<p>屋根なし条件において、センサー高さ40 mmおよび60 mmで、単独建物と建物群の4ケースを設定した。</p>
+<p>Case1: 単独建物、センサー高さ60 mm</p>
+<p>Case2: 建ぺい率25%、センサー高さ60 mm</p>
+<p>Case3: 単独建物、センサー高さ40 mm</p>
+<p>Case4: 建ぺい率25%、センサー高さ40 mm</p>
 
-<h3 class="relative group">中心差分（Central Difference Scheme）
-    <div id="中心差分central-difference-scheme" class="anchor"></div>
+<h3 class="relative group">結果
+    <div id="結果" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e4%b8%ad%e5%bf%83%e5%b7%ae%e5%88%86central-difference-scheme" aria-label="Anchor">#</a>
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e7%b5%90%e6%9e%9c" aria-label="Anchor">#</a>
     </span>
     
 </h3>
-$$\frac{\partial u}{\partial x} \approx \frac{u_{i+1} - u_{i-1}}{2\Delta x}$$<p>中心差分は2次精度ですが、下流側の格子値を必要とします。これは「下流の情報が上流に先に伝わる」ことを意味し、数値誤差が増幅され続け、最終的に数値振動が発生します。</p>
+<p>Case2およびCase4について前回の結果と比較したところ、Case4では前回結果とほぼ一致した。一方、Case2では風向0°における平均風速が前回よりやや低下した。</p>
+<p>Case1では、風向15°において平均風速がやや上昇し、その後は低下傾向を示した。</p>
+<p>Case3では、風向0°、15°、30°、45°における平均風速は概ね同程度であった。</p>
 
-<h3 class="relative group">時間を進めるための離散式
-    <div id="時間を進めるための離散式" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e6%99%82%e9%96%93%e3%82%92%e9%80%b2%e3%82%81%e3%82%8b%e3%81%9f%e3%82%81%e3%81%ae%e9%9b%a2%e6%95%a3%e5%bc%8f" aria-label="Anchor">#</a>
-    </span>
-    
-</h3>
-$$u_i^{n+1} = u_i^n - c \frac{\Delta t}{\Delta x} (u_i^n - u_{i-1}^n)$$
-<h2 class="relative group">3. コード実装
-    <div id="3-コード実装" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#3-%e3%82%b3%e3%83%bc%e3%83%89%e5%ae%9f%e8%a3%85" aria-label="Anchor">#</a>
-    </span>
-    
-</h2>
-<p>元のチュートリアルではネストしたforループで解法を実装していましたが、ここではNumPyのベクトル化演算を使用しています。</p>
-<p><strong>核心となる計算部分</strong>（完全なコードはGitHubリポジトリを参照）</p>
-<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">for</span> <span class="n">n</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">nt</span><span class="p">):</span>
-</span></span><span class="line"><span class="cl">    <span class="n">un</span> <span class="o">=</span> <span class="n">u</span><span class="o">.</span><span class="n">copy</span><span class="p">()</span>  
-</span></span><span class="line"><span class="cl">    <span class="n">u</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span> <span class="o">=</span> <span class="n">un</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span> <span class="o">-</span> <span class="n">c</span> <span class="o">*</span> <span class="n">dt</span> <span class="o">/</span> <span class="n">dx</span> <span class="o">*</span> <span class="p">(</span><span class="n">un</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span> <span class="o">-</span> <span class="n">un</span><span class="p">[:</span><span class="o">-</span><span class="mi">1</span><span class="p">])</span>
-</span></span><span class="line"><span class="cl">    <span class="n">u</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="mf">1.0</span></span></span></code></pre></div></div>
-<p>スライスを使って計算を進めています。</p>
-<ul>
-<li><code>u[1:]</code>：1番目から最後の格子点までのスライス</li>
-<li><code>un[:-1]</code>：左端境界から後ろから2番目の格子点までのスライス</li>
-<li><code>u[0] = 1.0</code>：左端の境界条件</li>
-</ul>
 
-<h2 class="relative group">4. CFL安定性条件
-    <div id="4-cfl安定性条件" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#4-cfl%e5%ae%89%e5%ae%9a%e6%80%a7%e6%9d%a1%e4%bb%b6" aria-label="Anchor">#</a>
-    </span>
-    
-</h2>
-$$\text{CFL} = c \cdot \frac{\Delta t}{\Delta x} \leq 1$$<p>一般に \(C \leq 1\) であれば計算は安定し、物理的に合理的な解が得られます。</p>
-<p>CFLの影響を確認するため、3ケースをテストしました。</p>
-<ul>
-<li><strong>CFL = 0.5（安全範囲）</strong>：波形が完全に平行移動し、振動・発散なし。物理的に正しい結果が得られた</li>
-<li><strong>CFL = 0.9（臨界に近い）</strong>：波形はほぼ安定しているが、わずかな数値拡散が見られる（濃度ピークがやや低くなる）。結果としては依然有効</li>
-<li><strong>CFL = 1.5（超過）</strong>：計算が急速に発散し、数値的に無意味な結果となる。有効な解は得られない</li>
-</ul>
 
-<h2 class="relative group">5. 主要な結果の考察
-    <div id="5-主要な結果の考察" class="anchor"></div>
+
+
+
+
+
+
+
+
+
+
+  
     
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
-        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#5-%e4%b8%bb%e8%a6%81%e3%81%aa%e7%b5%90%e6%9e%9c%e3%81%ae%e8%80%83%e5%af%9f" aria-label="Anchor">#</a>
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+<div class="width-patch"></div>
+<div
+  id="carousel-19a46e79c29888fa4e302215435650e6-1779799016182215900"
+  class="relative"
+  data-twe-carousel-init
+  data-twe-ride="carousel"
+  data-twe-interval="1500">
+  <div
+    class="absolute right-0 bottom-0 left-0 z-2 mx-[15%] mb-10 flex list-none justify-center p-0"
+    data-twe-carousel-indicators>
+    
+    
+  </div>
+
+  <div class="relative w-full overflow-hidden after:clear-both after:block after:content-['']">
+    
+  </div>
+
+  <button
+    class="absolute top-0 bottom-0 left-0 z-2 flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
+    type="button"
+    data-twe-target="#carousel-19a46e79c29888fa4e302215435650e6-1779799016182215900"
+    data-twe-slide="prev">
+    <span class="inline-block h-8 w-8">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke-width="4.5"
+        stroke="currentColor"
+        class="h-6 w-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+      </svg>
     </span>
-    
-</h2>
-<div class="admonition relative overflow-hidden rounded-lg border-l-4 my-3 px-4 py-3 shadow-sm" data-type="tip">
-      <div class="flex items-center gap-2 font-semibold text-inherit capitalize">
-        <div class="flex shrink-0 h-5 w-5 items-center justify-center text-lg"><span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path fill="currentColor" d="M112.1 454.3c0 6.297 1.816 12.44 5.284 17.69l17.14 25.69c5.25 7.875 17.17 14.28 26.64 14.28h61.67c9.438 0 21.36-6.401 26.61-14.28l17.08-25.68c2.938-4.438 5.348-12.37 5.348-17.7L272 415.1h-160L112.1 454.3zM191.4 .0132C89.44 .3257 16 82.97 16 175.1c0 44.38 16.44 84.84 43.56 115.8c16.53 18.84 42.34 58.23 52.22 91.45c.0313 .25 .0938 .5166 .125 .7823h160.2c.0313-.2656 .0938-.5166 .125-.7823c9.875-33.22 35.69-72.61 52.22-91.45C351.6 260.8 368 220.4 368 175.1C368 78.61 288.9-.2837 191.4 .0132zM192 96.01c-44.13 0-80 35.89-80 79.1C112 184.8 104.8 192 96 192S80 184.8 80 176c0-61.76 50.25-111.1 112-111.1c8.844 0 16 7.159 16 16S200.8 96.01 192 96.01z"/></svg>
-</span></div>
-        <div class="grow">
-          tip
-        </div>
-      </div><div class="admonition-content mt-3 text-base leading-relaxed text-inherit"><p>参考教材：<em>CFD Python: 12 Steps to Navier-Stokes</em>、Lorena A. Barba 教授</p></div></div>
+    <span
+      class="!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]"
+      >Previous</span
+    >
+  </button>
+
+  <button
+    class="absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
+    type="button"
+    data-twe-target="#carousel-19a46e79c29888fa4e302215435650e6-1779799016182215900"
+    data-twe-slide="next">
+    <span class="inline-block h-8 w-8">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke-width="4.5"
+        stroke="currentColor"
+        class="h-6 w-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+      </svg>
+    </span>
+    <span
+      class="!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]"
+      >Next</span
+    >
+  </button>
+</div>
+
+
           
           
           
@@ -1307,7 +1367,7 @@ $$\text{CFL} = c \cdot \frac{\Delta t}{\Delta x} \leq 1$$<p>一般に \(C \leq 1
     
   <summary
     class="py-1 text-lg font-semibold cursor-pointer bg-primary-200 text-neutral-800 -ms-5 ps-5 dark:bg-primary-800 dark:text-neutral-100">
-    12 steps to Navier-Stokes -
+    屋根形状の異なる通風実験シリーズ -
     This article is part of a series.
   </summary>
   
@@ -1315,7 +1375,37 @@ $$\text{CFL} = c \cdot \frac{\Delta t}{\Delta x} \leq 1$$<p>一般に \(C \leq 1
     
       <div
         class="py-1 border-dotted border-neutral-300 border-s-1 -ms-5 ps-5 dark:border-neutral-600">
-        Part 1:
+        <a href="/My-Website/wind-tunnel/4-17-4-21-wind-tunnel/">
+          Part 1:
+          屋根形状の異なる通風実験-Part1
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 border-s-1 -ms-5 ps-5 dark:border-neutral-600">
+        <a href="/My-Website/wind-tunnel/4-22-wind/">
+          Part 2:
+          屋根形状の異なる通風実験-Part2
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 border-s-1 -ms-5 ps-5 dark:border-neutral-600">
+        <a href="/My-Website/wind-tunnel/5.1-5.8/">
+          Part 3:
+          屋根形状の異なる通風実験-Part3
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 border-s-1 -ms-5 ps-5 dark:border-neutral-600">
+        Part 4:
         This Article
       </div>
     
@@ -1333,7 +1423,7 @@ $$\text{CFL} = c \cdot \frac{\Delta t}{\Delta x} \leq 1$$<p>一般に \(C \leq 1
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://twitter.com/intent/tweet/?url=http://localhost:1313/My-Website/cfd/1-steps-to-n-s/&amp;text=%e4%b8%80%e6%ac%a1%e5%85%83%e7%b7%9a%e5%bd%a2%e7%a7%bb%e6%b5%81%e6%96%b9%e7%a8%8b%e5%bc%8f"
+          href="https://twitter.com/intent/tweet/?url=http://localhost:1313/My-Website/wind-tunnel/5.13-5.26/&amp;text=%e5%b1%8b%e6%a0%b9%e5%bd%a2%e7%8a%b6%e3%81%ae%e7%95%b0%e3%81%aa%e3%82%8b%e9%80%9a%e9%a2%a8%e5%ae%9f%e9%a8%93-Part4"
           title="Tweet on Twitter"
           aria-label="Tweet on Twitter">
           <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></span>
@@ -1344,7 +1434,7 @@ $$\text{CFL} = c \cdot \frac{\Delta t}{\Delta x} \leq 1$$<p>一般に \(C \leq 1
         <a
           target="_blank"
           class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-          href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/My-Website/cfd/1-steps-to-n-s/&amp;quote=%e4%b8%80%e6%ac%a1%e5%85%83%e7%b7%9a%e5%bd%a2%e7%a7%bb%e6%b5%81%e6%96%b9%e7%a8%8b%e5%bc%8f"
+          href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/My-Website/wind-tunnel/5.13-5.26/&amp;quote=%e5%b1%8b%e6%a0%b9%e5%bd%a2%e7%8a%b6%e3%81%ae%e7%95%b0%e3%81%aa%e3%82%8b%e9%80%9a%e9%a2%a8%e5%ae%9f%e9%a8%93-Part4"
           title="Share on Facebook"
           aria-label="Share on Facebook">
           <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/></svg>
@@ -1372,8 +1462,8 @@ $$\text{CFL} = c \cdot \frac{\Delta t}{\Delta x} \leq 1$$<p>一般に \(C \leq 1
           type="text/javascript"
           src="/My-Website/js/page.min.54b6f4371722649edbe871e431d8670d670878c22be8f36e229fe53cc9b786fe25a834def5e6de621f7a3e37b72bc8cd73839aa5ed907ed6cbd45cd3e1b0fa20.js"
           integrity="sha512-VLb0NxciZJ7b6HHkMdhnDWcIeMIr6PNuIp/lPMm3hv4lqDTe9ebeYh96Pje3K8jNc4Oape2QftbL1FzT4bD6IA=="
-          data-oid="views_CFD\1-steps-to-N-S.md"
-          data-oid-likes="likes_CFD\1-steps-to-N-S.md"></script>
+          data-oid="views_Wind Tunnel\5.13-5.26.md"
+          data-oid-likes="likes_Wind Tunnel\5.13-5.26.md"></script>
       
     </section>
 
@@ -1394,14 +1484,14 @@ $$\text{CFL} = c \cdot \frac{\Delta t}{\Delta x} \leq 1$$<p>一般に \(C \leq 1
           
             <a
               class="flex text-right text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
-              href="/My-Website/cfd/cfd-basics-summary/">
+              href="/My-Website/wind-tunnel/4-17-4-21-wind-tunnel/">
               <span class="leading-6">
-                二つ建物の中に汚染物質を排出の実験結果とシミュレーション&ensp;<span class="inline-block rtl:rotate-180">&rarr;</span>
+                屋根形状の異なる通風実験-Part1&ensp;<span class="inline-block rtl:rotate-180">&rarr;</span>
               </span>
             </a>
             
               <span class="me-6 mt-1 text-xs text-neutral-500 dark:text-neutral-400">
-                <time datetime="2026-04-30T12:00:00&#43;08:00">30 April 2026</time>
+                <time datetime="2026-04-20T12:00:00&#43;08:00">20 April 2026</time>
               </span>
             
           

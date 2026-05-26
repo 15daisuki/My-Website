@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>自己紹介 on HOME</title>
+    <title>自己紹介ページ on HOME</title>
     <link>http://localhost:1313/My-Website/about/</link>
-    <description>Recent content in 自己紹介 on HOME</description>
+    <description>Recent content in 自己紹介ページ on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>202531002@cc.niit.ac.jp (SHUU SEMEI)</managingEditor>
