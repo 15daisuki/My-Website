@@ -26,8 +26,6 @@ sharingLinks: ["twitter", "facebook"]
 > [!WARNING]
 > 本記事は風洞実験室における実習・学習経験の記録であり、研究概要および実験風景のみを掲載している。
 > 実験条件、詳細データ、解析ファイル、および未公開研究内容の転載・再利用を禁止する。
->
-> Copyright © Shuu All Rights Reserved.
 
 {{< katex >}}
 
