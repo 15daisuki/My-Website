@@ -42,6 +42,26 @@
     </item>
     
     <item>
+      <title>2026年イベント参加まとめ</title>
+      <link>http://localhost:1313/My-Website/note/event/</link>
+      <pubDate>Tue, 05 May 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/note/event/</guid>
+      <description>ゴールデンウイークの記録</description>
+      
+    </item>
+    
+    <item>
+      <title>2026日本ラーメン巡り</title>
+      <link>http://localhost:1313/My-Website/note/ramen/</link>
+      <pubDate>Tue, 05 May 2026 12:00:00 +0800</pubDate>
+      <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
+      <guid>http://localhost:1313/My-Website/note/ramen/</guid>
+      <description>ゴールデンウイークの記録</description>
+      
+    </item>
+    
+    <item>
       <title>ゴールデンウイークの旅</title>
       <link>http://localhost:1313/My-Website/note/golden-week/</link>
       <pubDate>Tue, 05 May 2026 12:00:00 +0800</pubDate>
@@ -52,7 +72,7 @@
     </item>
     
     <item>
-      <title>二つ建物の中に汚染物質を排出の実験結果とシミュレーション</title>
+      <title>屋外汚染物質分布と換気性能に基づく室内空気汚染リスク評価</title>
       <link>http://localhost:1313/My-Website/cfd/cfd-basics-summary/</link>
       <pubDate>Thu, 30 Apr 2026 12:00:00 +0800</pubDate>
       <author>202531002@cc.niit.ac.jp (SHUU SEMEI)</author>
