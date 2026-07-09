@@ -81,11 +81,6 @@ sharingLinks: ["twitter", "facebook"]
 以下は実験時の設置状況である。
 
 
-{{< figure 
-  src="part2_1.jpg"
-  alt="設置状況"
-  caption="設置状況"
->}}
 
 ## 担当した作業
 
